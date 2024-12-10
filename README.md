@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there 👋 I am Yaasir!
-  
-<h3 align="center"> An experienced Data Manager, with Data analysis skills
+  An experienced Data Manager, with Data analysis skills
 
 - 📊 **Portfolio Projects**: Explore my projects on [GitHub](https://github.com/YaasirM?tab=repositories)
 
