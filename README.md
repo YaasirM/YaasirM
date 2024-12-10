@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 I am Yaasir! <h1>
-<h3 align="center"> An experienced Data Manager, with Data analysis skills based in London <h3>
+<h3 align="center"> An experienced Data Professional, based in the UK 📈 <h3>
 
 - 📊 **Portfolio Projects**: Explore my projects on [GitHub](https://github.com/YaasirM?tab=repositories)
 
@@ -9,4 +9,4 @@
 
 - ✉️ **Contact**: Reach me at yaasir.m01@hotmail.com
 
-- 🏅 Data Analysis Certificates: IBM Data Science Professional Certificate | Google Analytics Certificate
+- 🏅 Data Analysis Certificates: IBM Data Science Professional Certificate | Google Data Analytics Professional Certificate
