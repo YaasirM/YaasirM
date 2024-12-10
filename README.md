@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center"># Hi there 👋 I am Yaasir!
+  
+<h3 align="center"> An experienced Data Manager, with Data analysis skills
 
-<!--
-**YaasirM/YaasirM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Portfolio Projects**: Explore my projects on [GitHub](https://github.com/YaasirM?tab=repositories)
 
-Here are some ideas to get you started:
+💻 **Tools & Skills**: SQL, Python, clinical data management softwares (i.e. Medidata Rave, Zelta, Medrio), advanced Excel, Power BI, and data modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/yaasir-mahamuud-493964251/)
+
+✉️ **Contact**: Reach me at yaasir.m01@hotmail.com
+
+🏅 Data Analysis Certificates: IBM Data Science Professional Certificate | Google Analytics Certificate
